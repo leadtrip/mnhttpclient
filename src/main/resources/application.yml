@@ -1,7 +1,13 @@
 micronaut:
+  server:
+    port: 10030
   application:
     name: mnhttpclient
 netty:
   default:
     allocator:
       max-order: 3
+
+github:
+  organization: micronaut-projects
+  repo: micronaut-core
