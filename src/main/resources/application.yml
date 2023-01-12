@@ -11,3 +11,6 @@ netty:
 github:
   organization: micronaut-projects
   repo: micronaut-core
+  # the following must be set for the GithubFilter to be used but aren't required for the URLs the app accesses & aren't genuine
+  #username: manholecover
+  #token: ajfkldjfalkdjal
